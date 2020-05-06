@@ -30,6 +30,9 @@ void multiplication(int x, int y){
 }
 
 void divide(int x, int y){
-
+  float div = 0;
+  div = (float)x / (float)y;
+  
+  printf("x / y = %0.2f\n", div);
 }
   
