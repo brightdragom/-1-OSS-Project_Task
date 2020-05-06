@@ -21,7 +21,7 @@ void plus(int x, int y){
 }
 
 void minus(int x, int y){
-  printf("x-y = %d",x-y);
+  printf("x-y = %d", x-y);
 }
 
 void multiplication(int x, int y){
