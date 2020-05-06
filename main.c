@@ -25,7 +25,8 @@ void minus(int x, int y){
 }
 
 void multiplication(int x, int y){
-
+   printf("x*y = %d", x*y);
+}
 
 }
 
