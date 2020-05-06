@@ -28,8 +28,6 @@ void multiplication(int x, int y){
    printf("x*y = %d", x*y);
 }
 
-}
-
 void divide(int x, int y){
   float div = 0;
   div = (float)x / (float)y;
